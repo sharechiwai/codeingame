@@ -1,0 +1,30 @@
+{
+  "name": "codeingame-coding-challenge",
+  "version": "1.0.0",
+  "description": "This repos used to store coding challenge solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharechiwai/codeingame.git"
+  },
+  "keywords": [
+    "codeingame",
+    "coding",
+    "challenge"
+  ],
+  "author": "sharechiwai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharechiwai/codeingame/issues"
+  },
+  "homepage": "https://github.com/sharechiwai/codeingame#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1"
+  }
+}
